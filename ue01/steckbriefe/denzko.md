@@ -1,4 +1,4 @@
-# Steckbrief Denzko
+# Steckbrief dszp
 
 ## Studiengang und Semester
 
